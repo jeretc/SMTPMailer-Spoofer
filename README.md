@@ -31,3 +31,19 @@ This program requires Python 3.x and the following Python modules:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+
+## Disclaimer: SMTP Mailer+Spoofer
+
+Please note that the "SMTP Mailer+Spoofer" program provided in this repository is intended for educational and informational purposes only. The program demonstrates the functionality of SMTP (Simple Mail Transfer Protocol) and email spoofing techniques, but it should not be used for any malicious or illegal activities.
+
+Usage of this program to send unsolicited or unauthorized emails, impersonate others, or engage in any form of illegal or unethical behavior is strictly prohibited. The author and contributors of this program are not responsible for any misuse or damages caused by the program's usage.
+
+It is important to use this program responsibly and in compliance with applicable laws and regulations. Always obtain proper authorization before sending any emails, and ensure that you respect the privacy and rights of others.
+
+The "SMTP Mailer+Spoofer" program is provided as-is, without any warranties or guarantees of any kind. The author and contributors cannot be held liable for any direct or indirect damages or losses arising from the use of this program.
+
+By using or downloading this program, you acknowledge and agree to the terms and conditions stated in this disclaimer. If you do not agree with any part of this disclaimer, please refrain from using the "SMTP Mailer+Spoofer" program.
+
+Please use this program responsibly and ethically, and adhere to the guidelines and legal requirements of your jurisdiction.
+
+
